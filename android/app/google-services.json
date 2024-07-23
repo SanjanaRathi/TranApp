@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "883219239297",
+    "project_id": "tran-2a9b0",
+    "storage_bucket": "tran-2a9b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883219239297:android:7609cdf60b9c42b8145880",
+        "android_client_info": {
+          "package_name": "com.tran.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883219239297-lg0ar9dq189t34gansp9a0v0negu3mdu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tran.app",
+            "certificate_hash": "0897940c9a5932e88ab54a93d68018f7615cddb4"
+          }
+        },
+        {
+          "client_id": "883219239297-vakscvidn4ks5t1dmd6q9lh4uqeiqcvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tran.app",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "883219239297-adcqqkape6ebhgfsq09e24ja7urebfl8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClKqDAKZj2qbRqgxag_RUzsU3vOOUwL9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883219239297-adcqqkape6ebhgfsq09e24ja7urebfl8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "883219239297-p2t02o71nlbemn2c97j72tt9oqh121r8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tran.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
