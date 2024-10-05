@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "883219239297",
-    "project_id": "tran-2a9b0",
-    "storage_bucket": "tran-2a9b0.appspot.com"
+    "project_number": "272341994263",
+    "project_id": "tran-app-demo",
+    "storage_bucket": "tran-app-demo.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:883219239297:android:7609cdf60b9c42b8145880",
+        "mobilesdk_app_id": "1:272341994263:android:fb8c441e3aca4ce9878552",
         "android_client_info": {
           "package_name": "com.tran.app"
         }
