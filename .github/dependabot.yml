@@ -9,3 +9,6 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "daily"
+                    - name: Firebase App Distribution
+                uses: wzieba/Firebase-Distribution-Github-Action@v1.7.0
+            
